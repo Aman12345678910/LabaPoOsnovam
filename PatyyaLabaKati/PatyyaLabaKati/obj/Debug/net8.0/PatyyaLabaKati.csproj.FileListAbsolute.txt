@@ -1,0 +1,14 @@
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\bin\Debug\net8.0\PatyyaLabaKati.exe
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\bin\Debug\net8.0\PatyyaLabaKati.deps.json
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\bin\Debug\net8.0\PatyyaLabaKati.runtimeconfig.json
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\bin\Debug\net8.0\PatyyaLabaKati.dll
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\bin\Debug\net8.0\PatyyaLabaKati.pdb
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\PatyyaLabaKati.GeneratedMSBuildEditorConfig.editorconfig
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\PatyyaLabaKati.AssemblyInfoInputs.cache
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\PatyyaLabaKati.AssemblyInfo.cs
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\PatyyaLabaKati.csproj.CoreCompileInputs.cache
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\PatyyaLabaKati.dll
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\refint\PatyyaLabaKati.dll
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\PatyyaLabaKati.pdb
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\PatyyaLabaKati.genruntimeconfig.cache
+G:\Labs(all)\PatyyaLabaKati\PatyyaLabaKati\obj\Debug\net8.0\ref\PatyyaLabaKati.dll
